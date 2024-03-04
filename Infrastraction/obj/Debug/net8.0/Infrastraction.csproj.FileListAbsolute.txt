@@ -1,0 +1,16 @@
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Infrastraction\bin\Debug\net8.0\Infrastraction.deps.json
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Infrastraction\bin\Debug\net8.0\Infrastraction.dll
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Infrastraction\bin\Debug\net8.0\Infrastraction.pdb
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Infrastraction\bin\Debug\net8.0\Domein.dll
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Infrastraction\bin\Debug\net8.0\Domein.pdb
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Infrastraction\obj\Debug\net8.0\Infrastraction.csproj.AssemblyReference.cache
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Infrastraction\obj\Debug\net8.0\Infrastraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Infrastraction\obj\Debug\net8.0\Infrastraction.AssemblyInfoInputs.cache
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Infrastraction\obj\Debug\net8.0\Infrastraction.AssemblyInfo.cs
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Infrastraction\obj\Debug\net8.0\Infrastraction.csproj.CoreCompileInputs.cache
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Infrastraction\obj\Debug\net8.0\Infrastraction.sourcelink.json
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Infrastraction\obj\Debug\net8.0\Infrastr.968398ED.Up2Date
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Infrastraction\obj\Debug\net8.0\Infrastraction.dll
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Infrastraction\obj\Debug\net8.0\refint\Infrastraction.dll
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Infrastraction\obj\Debug\net8.0\Infrastraction.pdb
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Infrastraction\obj\Debug\net8.0\ref\Infrastraction.dll

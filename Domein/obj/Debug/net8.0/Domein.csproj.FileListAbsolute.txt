@@ -1,0 +1,12 @@
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Domein\bin\Debug\net8.0\Domein.deps.json
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Domein\bin\Debug\net8.0\Domein.dll
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Domein\bin\Debug\net8.0\Domein.pdb
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Domein\obj\Debug\net8.0\Domein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Domein\obj\Debug\net8.0\Domein.AssemblyInfoInputs.cache
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Domein\obj\Debug\net8.0\Domein.AssemblyInfo.cs
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Domein\obj\Debug\net8.0\Domein.csproj.CoreCompileInputs.cache
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Domein\obj\Debug\net8.0\Domein.sourcelink.json
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Domein\obj\Debug\net8.0\Domein.dll
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Domein\obj\Debug\net8.0\refint\Domein.dll
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Domein\obj\Debug\net8.0\Domein.pdb
+C:\Users\ISMOIL\Desktop\dotNET\Homeworke.4\Domein\obj\Debug\net8.0\ref\Domein.dll
